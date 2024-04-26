@@ -9,7 +9,7 @@ This repository contains a PHP application that demonstrates basic CRUD operatio
   <li>Delete: Allows users to delete unwanted data records from the database.</li>
 </ul>
 <br>
-<b>Technologies Used:<b>
+<b>Technologies Used:</b>
 <ul>
 <li>PHP: Server-side scripting language used for backend development.</li>
 <li>MySQL: Relational database management system used for data storage.</li>
